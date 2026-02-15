@@ -25,6 +25,8 @@
   python3 run main.py
 ```
 
+## Install Ollama
+
 <hr>
 
 # Advantages
