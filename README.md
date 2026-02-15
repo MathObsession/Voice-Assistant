@@ -27,6 +27,8 @@
 
 ## Install Ollama
 
+https://ollama.com/download
+
 <hr>
 
 # Advantages
