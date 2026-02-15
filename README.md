@@ -6,3 +6,19 @@
 ```bash
   pip install pyttsx3
 ```
+<br>
+```bash
+  pip install SpeechRecognition
+```
+<br>
+```bash
+  pip install pyaudio
+```
+
+<hr>
+
+# How to use
+
+```bash
+  python3 run main.py
+```
