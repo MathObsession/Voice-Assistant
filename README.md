@@ -29,4 +29,4 @@
 
 # Advantages
 
-This is not only a voice assistant, but tool that can be used in any front-end or back-end system. I have tried to make **THE ** smallest voice assistant that might be on Github.
+This is not only a voice assistant, but tool that can be used in any front-end or back-end system. I have tried to make THE smallest voice assistant that might be on Github.
