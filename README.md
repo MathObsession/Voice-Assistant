@@ -7,10 +7,12 @@
   pip install pyttsx3
 ```
 <br>
+
 ```bash
   pip install SpeechRecognition
 ```
 <br>
+
 ```bash
   pip install pyaudio
 ```
